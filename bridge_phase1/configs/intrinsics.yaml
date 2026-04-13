@@ -1,0 +1,26 @@
+image_width: 4284
+image_height: 5712
+camera_matrix:
+- - 4116.091497774405
+  - 0.0
+  - 2134.803260173232
+- - 0.0
+  - 4107.4538753232355
+  - 2875.275329739732
+- - 0.0
+  - 0.0
+  - 1.0
+dist_coeffs:
+- 0.15914935579789546
+- -0.047796522082816484
+- -0.0004414160007685003
+- 0.0006876876175985592
+- -1.9369100362367746
+rms_reprojection_error: 2.445205364796029
+pattern:
+  rows: 5
+  cols: 5
+  square_m: 0.027
+used_images: 17
+total_images_considered: 17
+failed_or_skipped: 0
