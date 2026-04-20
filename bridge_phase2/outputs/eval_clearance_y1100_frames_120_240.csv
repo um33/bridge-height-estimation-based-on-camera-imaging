@@ -1,0 +1,6 @@
+frame_idx,time_sec,clearance_m_estimate,clearance_status,underside_status
+120,4.0,2.6553482702455953,ok,ok
+150,5.0,2.71426810277049,ok,ok
+180,6.0,3.25513918603733,ok,ok
+210,7.0,3.2338324780598233,ok,ok
+240,8.0,3.667908753460204,ok,ok

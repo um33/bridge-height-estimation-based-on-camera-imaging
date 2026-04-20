@@ -1,0 +1,13 @@
+{"frame_idx": 0, "time_sec": 0.0, "predictions": [{"x": 348.5, "y": 686.0, "width": 595.0, "height": 166.0, "confidence": 0.7222362756729126, "class": "Bridge", "class_id": 0, "detection_id": "14b6c088-b5e0-40ba-8e0c-7e1a4edb4841"}]}
+{"frame_idx": 30, "time_sec": 1.0, "predictions": [{"x": 382.0, "y": 664.5, "width": 690.0, "height": 165.0, "confidence": 0.6088253259658813, "class": "Bridge", "class_id": 0, "detection_id": "9ca12584-df57-4a2c-886d-5c3d3b5e6ed0"}]}
+{"frame_idx": 60, "time_sec": 2.0, "predictions": []}
+{"frame_idx": 90, "time_sec": 3.0, "predictions": []}
+{"frame_idx": 120, "time_sec": 4.0, "predictions": [{"x": 516.0, "y": 624.5, "width": 984.0, "height": 217.0, "confidence": 0.7096840143203735, "class": "Bridge", "class_id": 0, "detection_id": "080327e4-7b1e-455e-ba3f-5da34aa834a4"}]}
+{"frame_idx": 150, "time_sec": 5.0, "predictions": [{"x": 373.5, "y": 624.5, "width": 741.0, "height": 197.0, "confidence": 0.6416939496994019, "class": "Bridge", "class_id": 0, "detection_id": "23eaa7ae-539c-4d2a-89cf-e98bf1055d1d"}]}
+{"frame_idx": 180, "time_sec": 6.0, "predictions": [{"x": 526.5, "y": 586.0, "width": 1049.0, "height": 238.0, "confidence": 0.6835296154022217, "class": "Bridge", "class_id": 0, "detection_id": "2f40f204-fc4e-4472-b858-5e8100b67f65"}]}
+{"frame_idx": 210, "time_sec": 7.0, "predictions": [{"x": 538.0, "y": 535.0, "width": 1068.0, "height": 280.0, "confidence": 0.7175503969192505, "class": "Bridge", "class_id": 0, "detection_id": "dca0cf19-b9e7-40c6-bc9e-c4fdaa6c40c6"}]}
+{"frame_idx": 240, "time_sec": 8.0, "predictions": [{"x": 539.5, "y": 491.5, "width": 1065.0, "height": 307.0, "confidence": 0.7105019092559814, "class": "Bridge", "class_id": 0, "detection_id": "38f0bd5d-3b00-4272-87b8-dc6f8b8d48ee"}]}
+{"frame_idx": 270, "time_sec": 9.0, "predictions": [{"x": 540.0, "y": 438.0, "width": 1072.0, "height": 346.0, "confidence": 0.6585327982902527, "class": "Bridge", "class_id": 0, "detection_id": "d4aa9ccb-26f3-4a11-b07b-1993c09baa29"}]}
+{"frame_idx": 300, "time_sec": 10.0, "predictions": [{"x": 537.0, "y": 334.5, "width": 1064.0, "height": 427.0, "confidence": 0.6709736585617065, "class": "Bridge", "class_id": 0, "detection_id": "4fb88f54-6b5d-4d1e-8139-20697360c06e"}]}
+{"frame_idx": 330, "time_sec": 11.0, "predictions": [{"x": 538.0, "y": 217.5, "width": 1070.0, "height": 417.0, "confidence": 0.5506552457809448, "class": "Bridge", "class_id": 0, "detection_id": "0f9768ec-c773-44a4-8a80-cd29dc92473c"}]}
+{"frame_idx": 360, "time_sec": 12.0, "predictions": []}
